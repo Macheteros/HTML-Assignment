@@ -1,0 +1,60 @@
+nav {
+    font-size: larger;
+    text-align: center;
+    border: 10px;
+    background-color: chocolate;
+    color: blue;
+    padding: 6px;
+    }
+
+    nav a {
+        display: inline-block;
+        padding-inline-start: 200px;
+          }
+
+nav:hover { background-color: rgb(145, 8, 8);
+            
+
+}
+
+body {
+    background-color: rgb(66, 50, 50, 26);
+}
+
+h1 {
+    color: chocolate;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+
+    h2 {
+        font-family: 'Roboto', sans-serif;
+        color: rgb(184, 37, 110);
+        text-align: center;
+    }
+
+audio::-webkit-media-controls-panel {
+        background-color:chocolate;
+    }
+
+
+
+
+
+    #top {
+        border: 5px solid chocolate;
+        background: grey;
+        float: inline-end;
+        font-size: larger;
+        line-height: 1.1em;
+        text-align: center;
+        }
+    
+
+
+    .box p {
+        color: brown;
+        font-size: larger;
+        font-style: italic;
+    }
